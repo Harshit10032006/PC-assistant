@@ -33,9 +33,5 @@ print(accuracy*100)
 
 
 os.makedirs("models", exist_ok=True)
-model_path = "models/gesture_model.pkl"
 
-joblib.dump(model, model_path)
-
-labels = np.unique(y)
-joblib.dump(labels, "models/random_forest.pkl")
+joblib.dump(model,"models/gesture_model.pkl")
