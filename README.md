@@ -13,6 +13,7 @@ This project combines **Computer Vision**, **Speech Recognition**, and **Automat
 * ⌨️ Keyboard automation using PyAutoGUI
 * ⚡ Fast and lightweight (no cloud dependency)
 * 🧠 Custom command mapping (fully configurable)
+* Not completed .....
 
 ---
 
